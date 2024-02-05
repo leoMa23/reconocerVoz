@@ -1,0 +1,10 @@
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\bin\Debug\ReconocimientoDeVoz.exe.config
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\bin\Debug\ReconocimientoDeVoz.exe
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\bin\Debug\ReconocimientoDeVoz.pdb
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.csproj.AssemblyReference.cache
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.Form1.resources
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.Properties.Resources.resources
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.csproj.GenerateResource.cache
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.csproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.exe
+C:\Users\yo\Desktop\TP3\ReconocimientoDeVoz\ReconocimientoDeVoz\obj\Debug\ReconocimientoDeVoz.pdb
